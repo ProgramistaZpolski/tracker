@@ -1,0 +1,1 @@
+fetch("http://localhost:7000/analitiks/track.php?sitename=example.com");
